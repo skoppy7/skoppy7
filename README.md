@@ -40,7 +40,7 @@
 - *Regress testing*<br>
 - *API testing*<br>
 
-Используемые Технологии: Jira, Confluence, Postman, Qase.io, Sitechko.ru, Miro.
+Используемые технологии: Jira, Confluence, Postman, Qase.io, Sitechko.ru, Miro.
 
 По окончанию тестирования на каждый найденный баг был заведен баг-репорт. В конце был составлен подробный [отчет](https://windy-sparrow-474.notion.site/e8a1415f368a47b0babe8c9ba413f9ee) о проведенном тестировании. <br>
 
